@@ -1,3 +1,3 @@
-# merge-conflit
+LOCAL
 toto
 tata

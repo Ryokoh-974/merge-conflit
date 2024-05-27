@@ -1,3 +1,3 @@
-# merge-conflit
+REMOTE
 toto
 tata
